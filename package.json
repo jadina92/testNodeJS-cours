@@ -1,0 +1,29 @@
+{
+  "name": "testnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "fs-path": "0.0.25",
+    "http": "0.0.1-security",
+    "lodash": "^4.17.20",
+    "os": "^0.1.1",
+    "request": "^2.88.2",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadina92/testNodeJS-cours.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jadina92/testNodeJS-cours/issues"
+  },
+  "homepage": "https://github.com/jadina92/testNodeJS-cours#readme"
+}
